@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StopWatchnpm%20install%20--save%20gh-pages/static/css/main.78a6fd65.css",
+    "main.js": "/StopWatchnpm%20install%20--save%20gh-pages/static/js/main.bc3ddbab.js",
+    "static/js/787.1c3bbaa3.chunk.js": "/StopWatchnpm%20install%20--save%20gh-pages/static/js/787.1c3bbaa3.chunk.js",
+    "index.html": "/StopWatchnpm%20install%20--save%20gh-pages/index.html",
+    "main.78a6fd65.css.map": "/StopWatchnpm%20install%20--save%20gh-pages/static/css/main.78a6fd65.css.map",
+    "main.bc3ddbab.js.map": "/StopWatchnpm%20install%20--save%20gh-pages/static/js/main.bc3ddbab.js.map",
+    "787.1c3bbaa3.chunk.js.map": "/StopWatchnpm%20install%20--save%20gh-pages/static/js/787.1c3bbaa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a6fd65.css",
+    "static/js/main.bc3ddbab.js"
+  ]
+}
